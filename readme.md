@@ -3,7 +3,7 @@
 ### Important Topics
 
 - Array and String
-- BinarySearch
+- Binary Search
 - LinkedList
 - Stack
 - Queue
