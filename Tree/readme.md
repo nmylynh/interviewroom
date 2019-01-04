@@ -48,5 +48,14 @@
 
 ## Important Problems on Binary Search Tree
 
+- Insert a Node in BST
+
+- Delete a Node from BST
+
+- Lowest common ancestor in BST
+
+- Inorder Successor in BST
+
+- Kth Largest node in BST
 
 
