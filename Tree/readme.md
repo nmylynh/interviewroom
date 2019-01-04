@@ -36,3 +36,17 @@
 
 - Bottom View of Binary Tree
 
+- Root to Leaf path sum
+
+- Maximum path sum from leaf to leaf
+
+- Maximum path sum from any node to any node
+
+- Least Common Ancestor
+
+- Find the distance between two nodes of a Binary Tree
+
+## Important Problems on Binary Search Tree
+
+
+
