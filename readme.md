@@ -45,6 +45,25 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 14     | Merge K sorted list                                      |
 | 15     | Add two numbers represented by a linked list             |
 
+## [Queue](https://github.com/ashuray/interviewroom/tree/master/Queue)
+
+| **ID** | **PROBLEM STATEMENT**                                    |
+|--------|----------------------------------------------------------|
+| 1      | Generate binary numbers from 1 to n                      |
+| 2      | Maximum time required to rot all Oranges                 |
+| 3      | First non repeating character in a stream                |
+| 4      | Sliding Window Maximum                                   |
+
+## [Stack](https://github.com/ashuray/interviewroom/tree/master/Stack)
+
+| **ID** | **PROBLEM STATEMENT**                                    |
+|--------|----------------------------------------------------------|
+| 1      | Valid Parentheses                                        |
+| 2      | Length of longest valid Parentheses                      |
+| 3      | Next Greater Element                                     |
+| 4      | Nearest Smaller Element                                  |
+| 5      | Trapping Rain Water                                      |
+| 6      | Largest Rectangle in a Histogram                         |
 
 
 
