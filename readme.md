@@ -1,5 +1,7 @@
 # Interview Preparation
-You can crack any interview if you are preparing yourself in a well organised manner.There are lots of data structure and algorithm problems on internet and it is quite impossible for a person to practice all of them. So it is really important that you practice a list of few problems which are really important and covers almost every concepts. I have tried my best to sort all those problems for you and ordered them as well. I hope if you follow my list and study in the same order in which i have given, it will surely help you prepare very well for the job interview in your 2 months vacation.
+You can crack any Interview if you are preparing yourself in a well organised manner. There are lots of Data Structure and Algorithm problems on internet and it is quite impossible for a person to practice all of them. So it is really important that you practice a list of few problems which are really important and covers almost every concepts. 
+
+I have tried my best to sort all those problems for you and ordered them as well. I hope if you follow my list and study in the same order in which i have given, it will surely help you prepare very well for the Job Interview in your 2 months vacation.
 
 ## Table of Contents
 
