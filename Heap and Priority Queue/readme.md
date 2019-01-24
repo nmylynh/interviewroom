@@ -1,4 +1,4 @@
-## [Heap and Priority Queue]
+## [Heap and Priority Queue](https://github.com/ashuray/interviewroom/tree/master/Heap%20and%20Priority%20Queue)
 
 | **ID** | **PROBLEM STATEMENT**                    | **PROBLEM LINK**                              |
 |--------|------------------------------------------|-----------------------------------------------|
