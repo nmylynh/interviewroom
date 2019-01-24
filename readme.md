@@ -17,7 +17,7 @@ I have tried my best to sort all those problems for you and ordered them as well
 
 - [Binary Search Tree](#binary-search-tree)
 
-- [Heap](#heap)
+- [Heap and Priority Queue](#heap-and-priority-queue)
 
 - [Dynamic Programming](#dynamic-programming)
 
@@ -69,7 +69,8 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 1      | Generate binary numbers from 1 to n                      | [GFG](https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/)                     |
 | 2      | Minimum time required to rot all Oranges                 | [GFG](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)                                      |
 | 3      | First non repeating character in a stream                | [GFG](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)           |
-| 4      | Sliding Window Maximum                                   | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) , [InterviewBit](https://www.interviewbit.com/problems/sliding-window-maximum/)                                     |
+| 4      | Circular tour                                            | [GFG](https://practice.geeksforgeeks.org/problems/circular-tour/1) ,      [LeetCode](https://leetcode.com/problems/gas-station/)                                                        |
+| 5      | Sliding Window Maximum                                   | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) , [InterviewBit](https://www.interviewbit.com/problems/sliding-window-maximum/)                                     |
 
 ## [Binary Tree](https://github.com/ashuray/interviewroom/tree/master/Tree)
 
@@ -109,3 +110,14 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 3      | Lowest common ancestor in BST |   [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                      |
 | 4      | Inorder Successor in BST      |  [LeetCode](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)                             |
 | 5      | Kth Smallest node in BST       |        [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                       |
+
+
+[Heap and Priority Queue]()
+
+| **ID** | **PROBLEM STATEMENT**                    | **PROBLEM LINK**                              |
+|--------|------------------------------------------|-----------------------------------------------|
+| 1      | Median in a stream of integers           | [GFG](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)                             |
+| 2      | Top K Frequent Elements in an Array      |    [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)                                            |
+| 3      | Kth Largest Element in a Stream          | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                    |
+| 4      | Sort a nearly sorted (or K sorted) array |         [GFG](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)                                            |
+| 5      | Kth Smallest Element in a Sorted Matrix  | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)                           |
