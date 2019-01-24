@@ -89,11 +89,12 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 14     | Check if two Binary Tree are mirror image of each other |   [GFG](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)                          |
 | 15     | Check if a Binary Tree is Symmetric Binary Tree         |   [InterviewBit](https://www.interviewbit.com/problems/symmetric-binary-tree/)  , [LeetCode](https://leetcode.com/problems/symmetric-tree/)                                                     |
 | 16     | Invert a Binary Tree                                    |   [InterviewBit](https://www.interviewbit.com/problems/invert-the-binary-tree/) , [LeetCode](https://leetcode.com/problems/invert-binary-tree/)                                                 |
-| 16     | Vertical order Traversal                                |  [InterviewBit](https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/)                |
-| 17     | Top View Of Binary Tree                                 |                  |
-| 18     | Bottom View of Binary Tree                              |                  |
-| 19     | Root to Leaf path sum                                   |                  |
-| 20     | Maximum path sum from leaf to leaf                      |                  |
-| 21     | Maximum path sum from any node to any node              |                  |
-| 22     | Least Common Ancestor                                   |                  |
-| 23     | Find the distance between two nodes of a Binary Tree    |                  |
+| 17     | Vertical order Traversal                                |  [InterviewBit](https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/)                    |
+| 18     | Top View Of Binary Tree                                 |  [GFG](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)                             |
+| 19     | Bottom View of Binary Tree                              |  [GFG](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)                          |
+| 20     | Check if Root to Leaf path sum exist                    |  [InterviewBit](https://www.interviewbit.com/problems/path-sum/) ,                     [LeetCode](https://leetcode.com/problems/path-sum/)                                                           |
+| 21     | All Root to Leaf path sum                     |  [InterviewBit](https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/) ,   [LeetCode](https://leetcode.com/problems/path-sum-ii/)                                                        |
+| 22     | Maximum path sum from leaf to leaf                      | [GFG](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1)                                    |
+| 23     | Maximum path sum from any node to any node              | [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                       |
+| 24     | Least Common Ancestor                                   |  [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)                            |
+| 25     | Find the distance between two nodes of a Binary Tree    |  [GFG](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)                                                                                                                          |
