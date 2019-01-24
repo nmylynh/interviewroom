@@ -15,6 +15,8 @@ I have tried my best to sort all those problems for you and ordered them as well
 
 - [Binary Tree](#binary-tree)
 
+- [Binary Search Tree](#binary-search-tree)
+
 - [Heap](#heap)
 
 - [Dynamic Programming](dynamic-programming)
@@ -98,3 +100,12 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 23     | Maximum path sum from any node to any node              | [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                       |
 | 24     | Least Common Ancestor                                   |  [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)                            |
 | 25     | Find the distance between two nodes of a Binary Tree    |  [GFG](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)                                                                                                                          |
+
+## [Binary Search Tree](https://github.com/ashuray/interviewroom/tree/master/Tree)
+| **ID** | **PROBLEM STATEMENT**         | **PROBLEM LINK**                                          |
+|--------|-------------------------------|-----------------------------------------------------------|
+| 1      | Insert a Node in BST          |      [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                                    |
+| 2      | Delete a Node from BST        |                  [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/)                                                |
+| 3      | Lowest common ancestor in BST |   [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                      |
+| 4      | Inorder Successor in BST      |  [LeetCode](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)                             |
+| 5      | Kth Smallest node in BST       |        [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                       |

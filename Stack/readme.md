@@ -8,5 +8,5 @@
 | 4      | Nearest Smaller Element                                  | [InterviewBit](https://www.interviewbit.com/problems/nearest-smaller-element/)                                   |
 | 5      | Trapping Rain Water                                      | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) ,                 [InterviewBit](https://www.interviewbit.com/problems/rain-water-trapped/)                                        |
 | 6      | Largest Rectangle in a Histogram                         | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) ,     [InterviewBit](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)                            |
-| 7     | Min Stack                                                  | [LeetCode](https://leetcode.com/problems/min-stack/) ,                           [InterviewBit](https://www.interviewbit.com/problems/min-stack/)                                                 |
+| 7     | Min Stack                                                  | [LeetCode](https://leetcode.com/problems/min-stack/) ,                           [InterviewBit](https://www.interviewbit.com/problems/min-stack/)                                                 |  
 
