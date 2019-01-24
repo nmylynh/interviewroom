@@ -9,7 +9,7 @@ I have tried my best to sort all those problems for you and ordered them as well
 
 - [LinkedList](#linkedlist)
 
-- [Stack](stack)
+- [Stack](#stack)
 
 - [Queue](#queue)
 
@@ -19,9 +19,9 @@ I have tried my best to sort all those problems for you and ordered them as well
 
 - [Heap](#heap)
 
-- [Dynamic Programming](dynamic-programming)
+- [Dynamic Programming](#dynamic-programming)
 
-- [Greedy Algorithms](greedy-algorithms)
+- [Greedy Algorithms](#greedy-algorithms)
 
 - [Graph](#graph)
 
