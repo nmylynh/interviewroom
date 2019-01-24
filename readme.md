@@ -112,7 +112,7 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 5      | Kth Smallest node in BST       |        [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                       |
 
 
-##[Heap and Priority Queue](https://github.com/ashuray/interviewroom/tree/master/Heap%20and%20Priority%20Queue)
+## [Heap and Priority Queue](https://github.com/ashuray/interviewroom/tree/master/Heap%20and%20Priority%20Queue)
 
 | **ID** | **PROBLEM STATEMENT**                    | **PROBLEM LINK**                              |
 |--------|------------------------------------------|-----------------------------------------------|
