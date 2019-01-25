@@ -121,3 +121,21 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 3      | Kth Largest Element in a Stream          | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                    |
 | 4      | Sort a nearly sorted (or K sorted) array |         [GFG](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)                                            |
 | 5      | Kth Smallest Element in a Sorted Matrix  | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)                           |
+
+
+## [Dynamic Programming]()
+
+| **ID** | **PROBLEM STATEMENT**                                | **PROBLEM LINK**                                                                                                                                                  |
+|--------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | Find minimum number of coins that make a given value | [LeetCode](https://leetcode.com/problems/coin-change/)                                                                                                            |
+| 2      | Partition Equal Subset Sum                           | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/)                                                                                             |
+| 3      | Rod Cutting Problem                                  | [GFG](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)                                                                                                         |
+| 4      | Longest Common Subsequence                           | [LeetCode](https://leetcode.com/problems/delete-operation-for-two-strings/)                                                                                       |
+| 5      | Print Longest Common Subsequence                     | [Hackerrank](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)                                           |
+| 6      | Longest Increasing Subsequence                       | [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/) , [InterviewBit](https://www.interviewbit.com/problems/longest-increasing-subsequence/) |
+| 7      | Longest Bitonic Subsequence                          | [InterviewBit](https://www.interviewbit.com/problems/length-of-longest-subsequence/)                                                                              |
+| 8      | Min Cost Path                                        | [InterviewBit](https://www.interviewbit.com/problems/min-sum-path-in-matrix/ )                                                                                    |
+| 9      | Maximal Rectangle                                    | [LeetCode](https://leetcode.com/problems/maximal-rectangle/) , [InterviewBit](https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/)              |
+| 10     |   Longest Common Substring                           | [LeetCode](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)                                                                                    |
+| 11     | Edit Distance                                        | [LeetCode](https://leetcode.com/problems/edit-distance/)                                                                                                          |
+| 12     | Minimum Jump to reach End                            | [LeetCode](https://leetcode.com/problems/jump-game-ii/) , [InterviewBit](https://www.interviewbit.com/problems/min-jumps-array/)                                  |
