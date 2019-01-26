@@ -150,7 +150,7 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 21     | Word Break                                           |      [LeetCode](https://leetcode.com/problems/word-break/) ,              [InterviewBit](https://www.interviewbit.com/problems/word-break/)                                                        |
 | 22     | Interleaving String                                  | [LeetCode](https://leetcode.com/problems/interleaving-string/) , [InterviewBit](https://www.interviewbit.com/problems/interleaving-strings/)                                              |
 | 23     | Matrix Chain Multiplication                          | [LeetCode](https://leetcode.com/problems/burst-balloons/)                                                            |
-| 18     | Palindrome Partitioning                              | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/)                                                |
+| 24     | Palindrome Partitioning                              | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/)                                                |
 
 
 
