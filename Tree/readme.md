@@ -1,7 +1,5 @@
 ## Important Problems On Binary Tree
 
-## [Binary Tree](https://github.com/ashuray/interviewroom/tree/master/Tree)
-
 | **ID** | **PROBLEM STATEMENT**                                   | **PROBLEM LINK**               |
 |--------|---------------------------------------------------------|--------------------------------|
 | 1      | Determine Height of a binary tree                       |  [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) , [InterviewBit](https://www.interviewbit.com/problems/max-depth-of-binary-tree/)                                   |

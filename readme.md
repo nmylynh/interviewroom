@@ -123,7 +123,7 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 5      | Kth Smallest Element in a Sorted Matrix  | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)                           |
 
 
-## [Dynamic Programming]()
+## [Dynamic Programming](https://github.com/ashuray/interviewroom/tree/master/Dynamic%20Programming)
 
 | **ID** | **PROBLEM STATEMENT**                                | **PROBLEM LINK**                        |
 |--------|------------------------------------------------------|-----------------------------------------|
