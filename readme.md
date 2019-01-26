@@ -5,8 +5,6 @@ I have tried my best to sort all those problems for you and ordered them as well
 
 ## Table of Contents
 
-- [Array](#array)
-
 - [LinkedList](#linkedlist)
 
 - [Stack](#stack)
@@ -20,10 +18,6 @@ I have tried my best to sort all those problems for you and ordered them as well
 - [Heap and Priority Queue](#heap-and-priority-queue)
 
 - [Dynamic Programming](#dynamic-programming)
-
-- [Greedy Algorithms](#greedy-algorithms)
-
-- [Graph](#graph)
 
 
 ## [LinkedList](https://github.com/ashuray/interviewroom/tree/master/LinkedList)
