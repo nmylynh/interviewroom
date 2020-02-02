@@ -16,3 +16,12 @@ and so on!
     f(n) = f(n-1) + f(n-2)
     
 [https://visualgo.net/en/recursion]
+
+## Optimization Problems:
+
+- There are many problems in CS where you want to optimize some value:
+  - Find the shortest path between two points
+  - Find a line that best fits a set of points
+  - Find the smallest set of objects that meet a criteria
+  - Choose the fastest set of connections through a network
+  
