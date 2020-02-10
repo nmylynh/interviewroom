@@ -18,3 +18,18 @@ def merge(list1, list2):
 ```
 This merge routine is very useful in sorting algorithms, most famously in merge sort. The key idea is to take the smallest element in each list, add the smaller of those two values to an output list, and discard that element from further consideration. The real genius is that, because the two lists are already sorted, we can merge them together in linear time. We can compare the first element of each list, pop off the smaller value, and add it to an output list, continuing until both lists are empty. This approach works well for merging 2 lists, but does not extend well to larger numbers of lists. However, a heap data structure is able to merge k lists with n total items in O(k log n) time.
 
+# UTF Encoding
+
+```python
+b = bytearray([0xd9, 0x83, 0xd9, 0x84, 0xd8, 0xa8])
+message = b.decode('utf-8')
+```
+
+# Regular Expressions
+
+This expression would match blabber but not babel.
+```python
+^([^b]*b[^b]*){3}$
+
+```
+Regular expressions are a concise way to express pattern matching over strings. The correct answer above matches strings that have exactly three "b"s. We won't go into the details of regular expression syntax here, but you can look that up online. Interestingly, regular expressions come from theoretical computer science (they are equivalent to finite state automata). And implementing a regular expression engine involves simulating a finite state automaton! They didn't become popular with programmers until 1968, when Ken Thompson used regular expressions as a pattern matching syntax in the QED editor.
