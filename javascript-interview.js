@@ -122,7 +122,7 @@ class Autocomplete {
         case 'Backspace':
           return
         default:
-          this.autocompleteItem()
+          this.autocompleteQuery()
       }
     }
   }
@@ -145,8 +145,8 @@ class Autocomplete {
       }
     }
     
-    const prevActive = this.getItemAt(activeIndex)
-    let activeItem
+    const prevActive = this.getQueryAt(activeIndex)
+    let activeQuery
     
     switch(key) {
       case 'ArrowUp':
@@ -164,8 +164,8 @@ class Autocomplete {
         }
         break
       case 'Enter':
-        activeItem = this.getItemAt(activeIndex)
-        this.selectItem(activeItem)
+        activeQuery = this.getQueryAt(activeIndex)
+        this.selectQuery(activeQuery)
         return
       case 'Tab':
         this.checkSelection()
@@ -176,7 +176,7 @@ class Autocomplete {
     }
     
     event.preventDefault()
-    activeItem = this.getItemAt(activeIndex)
+    activeQuery = this.getQueryAt(activeIndex)
     this.activeIndex = activeIndex
     
     if (prevActive) {
@@ -184,12 +184,12 @@ class Autocomplete {
       prevActive.setAttribute('aria-selected', 'false')
     }
     
-    if (activeItem) {
+    if (activeQuery) {
       this.inputNode.setAttribute('aria-activedescendant', `autocomplete-result-${activeIndex}`)
-      activeItem.classList.add('selected')
-      activeItem.setAttribute('aria-selected', 'true')
+      activeQuery.classList.add('selected')
+      activeQuery.setAttribute('aria-selected', 'true')
       if (this.hasInlineAutocomplete) {
-        this.inputNode.value = activeItem.innerText
+        this.inputNode.value = activeQuery.innerText
       }
     } else {
       this.inputNode.setAttribute('aria-activedescendant', '')
@@ -202,15 +202,15 @@ class Autocomplete {
   
   handleResultClick = event => {
     if (event.target && event.target.nodeName === 'LI') {
-      this.selectItem(event.target)
+      this.selectQuery(event.target)
     }
   }
   
-  getItemAt = index => {
+  getQueryAt = index => {
     return this.resultsNode.querySelector(`#autocomplete-result-${index}`)
   }
   
-  selectItem = node => {
+  selectQuery = node => {
     if (node) {
       this.inputNode.value = node.innerText
       this.hideResults()
@@ -221,18 +221,18 @@ class Autocomplete {
     if (this.activeIndex < 0) {
       return
     }
-    const activeItem = this.getItemAt(this.activeIndex)
-    this.selectItem(activeItem)
+    const activeQuery = this.getQueryAt(this.activeIndex)
+    this.selectQuery(activeQuery)
   }
   
-  autocompleteItem = event => {
-    const autocompletedItem = this.resultsNode.querySelector('.selected')
+  autocompleteQuery = event => {
+    const autocompletedQuery = this.resultsNode.querySelector('.selected')
     const input = this.inputNode.value
-    if (!autocompletedItem || !input) {
+    if (!autocompletedQuery || !input) {
       return
     }
     
-    const autocomplete = autocompletedItem.innerText
+    const autocomplete = autocompletedQuery.innerText
     if (input !== autocomplete) {
       this.inputNode.value = autocomplete
       this.inputNode.setSelectionRange(input.length, autocomplete.length)
@@ -288,7 +288,7 @@ const search = input => {
   if (input.length < 1) {
     return []
   }
-  return data.filter(item => item.toLowerCase().startsWith(input.toLowerCase()))
+  return data.filter(data => data.toLowerCase().startsWith(input.toLowerCase()))
 }
 
 const autocomplete = new Autocomplete({
