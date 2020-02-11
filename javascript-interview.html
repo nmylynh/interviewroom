@@ -1,0 +1,38 @@
+<header>
+  <h1>Autocomplete</h1>
+  <p>Demonstration of a fully accessible autocomplete/search component in vanilla JavaScript. Based on the <a href='https://www.w3.org/TR/wai-aria-practices-1.1/#combobox' target='_blank'>WAI-ARIA authoring practices 1.1</a>.</p>
+  <link rel='stylesheet' href='./javascript-interview.css'>
+</header>
+<main>
+  <div class='container'>
+    <form class='autocomplete-container'>
+      <div
+        class='autocomplete'
+        role='combobox'
+        aria-expanded='false'
+        aria-owns='autocomplete-results'
+        aria-haspopup='listbox'
+      >
+        <input
+          class='autocomplete-input'
+          placeholder='Search for a fruit or vegetable'
+          aria-label='Search for a fruit or vegetable'
+          aria-autocomplete='both'
+          aria-controls='autocomplete-results'
+        >
+        <button type='submit' class='autocomplete-submit' aria-label='Search'>
+        Search
+        </button>
+      </div>
+      <ul
+        id='autocomplete-results'
+        class='autocomplete-results hidden'
+        role='listbox'
+        aria-label='Search for a fruit or vegetable'
+      >
+      </ul>
+    </form>
+    <p class='search-result'></p>
+  </div>
+  <script src='./javascript-interview.js'></script>
+</main>
